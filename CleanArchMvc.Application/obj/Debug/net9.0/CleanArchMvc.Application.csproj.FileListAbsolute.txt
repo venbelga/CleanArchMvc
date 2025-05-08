@@ -13,3 +13,4 @@ C:\Projetos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net9.0\CleanArchMvc.
 C:\Projetos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net9.0\refint\CleanArchMvc.Application.dll
 C:\Projetos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net9.0\CleanArchMvc.Application.pdb
 C:\Projetos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net9.0\ref\CleanArchMvc.Application.dll
+C:\Projetos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net9.0\CleanArchMvc.Application.sourcelink.json

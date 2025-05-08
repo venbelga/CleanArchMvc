@@ -19,3 +19,4 @@ C:\Projetos\CleanArchMvc\CleanArchMvc.IoC\obj\Debug\net9.0\CleanArchMvc.IoC.pdb
 C:\Projetos\CleanArchMvc\CleanArchMvc.IoC\obj\Debug\net9.0\ref\CleanArchMvc.IoC.dll
 C:\Projetos\CleanArchMvc\CleanArchMvc.IoC\bin\Debug\net9.0\CleanArchMvc.IoC.runtimeconfig.json
 C:\Projetos\CleanArchMvc\CleanArchMvc.IoC\obj\Debug\net9.0\CleanArchMvc.IoC.genruntimeconfig.cache
+C:\Projetos\CleanArchMvc\CleanArchMvc.IoC\obj\Debug\net9.0\CleanArchMvc.IoC.sourcelink.json

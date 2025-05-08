@@ -181,3 +181,5 @@ C:\Projetos\CleanArchMvc\CleanArchMvc.Api\bin\Debug\net9.0\CleanArchMvc.IoC.pdb
 C:\Projetos\CleanArchMvc\CleanArchMvc.Api\bin\Debug\net9.0\CleanArchMvc.Application.pdb
 C:\Projetos\CleanArchMvc\CleanArchMvc.Api\bin\Debug\net9.0\CleanArchMvc.Domain.pdb
 C:\Projetos\CleanArchMvc\CleanArchMvc.Api\bin\Debug\net9.0\CleanArchMvc.Infra.Data.pdb
+C:\Projetos\CleanArchMvc\CleanArchMvc.Api\obj\Debug\net9.0\CleanArchMvc.Api.sourcelink.json
+C:\Projetos\CleanArchMvc\CleanArchMvc.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
